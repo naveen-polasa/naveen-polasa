@@ -2,11 +2,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen-polasa&label=Profile%20views&color=0e75b6&style=flat" alt="naveen-polasa" /> </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0357F7&center=true&width=435&lines=Passionate+Web+Developer" alt="Typing SVG" /></a>
+<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0357F7&center=true&width=435&lines=Passionate+Web+Developer" alt="Typing SVG" /></a>
 </p>
 
 <h2 align="center" >Connect With Me 🚀</h2>
-
 <div  align="center" >
   <a href="https://www.linkedin.com/in/naveen-polasa/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/NaveenPolasa"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
