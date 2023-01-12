@@ -30,7 +30,7 @@
 <div align="center">
 <p><img align="center" src="https://streak-stats.demolab.com/?user=naveen-polasa&theme=dark" alt="naveen-polasa" /></p>
   </div> 
-  <br>
+  <!-- <br>
 <div align="center">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen-polasa&show_icons=true&theme=dark&locale=en&layout=compact" alt="naveen-polasa" /></p>
-  </div>
+  </div> -->
