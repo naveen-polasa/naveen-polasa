@@ -1,36 +1,31 @@
-<h1 align="center">Hi there 👋 I'm<a href="https://www.linkedin.com/in/naveen-polasa/" target="_blank"> Naveen Polasa</a> </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen-polasa&label=Profile%20views&color=0e75b6&style=flat" alt="naveen-polasa" /> </p>
+<h2 >Hi,👋 I'm Naveen </h2>
 
-<p align="center">
-<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0357F7&center=true&width=435&lines=Passionate+Web+Developer" alt="Typing SVG" /></a>
+<h3>Tech Stack 🛠 </h3>
+<p>
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,postman,redux,js,html,css,tailwind,bootstrap,vscode,git,)" />
+</p>
+<h3>Socials 🔗</h3>
+<p>
+<a href="https://www.linkedin.com/in/naveen-polasa/">
+  <img height="40" style="margin-right: 3px;" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="https://twitter.com/NaveenPolasa">
+  <img height="40" style="margin-right: 3px;" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+</a>
+<a href="https://www.instagram.com/naveen_polasa/">
+  <img height="40" style="margin-right: 3px;" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+<a href="https://naveenpolasa.me/">
+  <img height="40" style="margin-right: 3px;" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+</a>
 </p>
 
-<h2 align="center" >Connect With Me 🚀</h2>
+<p> <img src="https://komarev.com/ghpvc/?username=naveen-polasa&label=Profile%20views&color=0e75b6&style=flat" alt="naveen-polasa"/> </p>
 
-<div  align="center" >
-  <a href="https://www.linkedin.com/in/naveen-polasa/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/NaveenPolasa"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://naveenpolasa.hashnode.dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
-   <a href="https://www.instagram.com/naveen_polasa/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</div>
-<br
->
-<h2 align="center">Tech Stack ❤️</h2>
-<div align="center">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-</div>
+<details><summary>Github Stats ⚡</summary>
 <br>
-<br>
-
-<div align="center">
-<p><img align="center" src="https://streak-stats.demolab.com/?user=naveen-polasa&theme=dark" alt="naveen-polasa" /></p>
-  </div> 
-  <!-- <br>
-<div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen-polasa&show_icons=true&theme=dark&locale=en&layout=compact" alt="naveen-polasa" /></p>
-  </div> -->
+<div style='display:flex; flex-wrap:wrap;' >
+<p style="margin: 5px;"><img height="180em" src="https://streak-stats.demolab.com/?user=naveen-polasa&theme=dark" alt="naveen-polasa" /></p>
+<p style="margin: 5px;"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen-polasa&show_icons=true&theme=dark&locale=en&layout=compact" alt="naveen-polasa" /></p>
+  </div>
+</details>
